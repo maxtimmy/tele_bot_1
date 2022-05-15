@@ -86,6 +86,7 @@ def find(m):
     bot.send_message(m.chat.id, config.find_mes[0], parse_mode='html')
 
     @bot.message_handler(content_types=['text'])
+
     def echo_all(message):
 
         with open("212979.zip", "rb") as file:
