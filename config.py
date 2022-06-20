@@ -1,4 +1,4 @@
-TOKEN = '5353284511:AAFck4j-xd1L9EoKKn5f1COpqPNnsUL7CuA'
+TOKEN = 'token'
 
 help_mess = ['/upload - загрузить свою работу\n/find - найти нужный тебе материал']
 upload_mess = ['Ты уже загружал работы в нашего бота?']
